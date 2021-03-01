@@ -23,7 +23,6 @@ main * {
   align-items: center;
 }
 
-
 #p-result, #c-result {
   border: 2vmin solid white;
   border-radius: 5vmin;
