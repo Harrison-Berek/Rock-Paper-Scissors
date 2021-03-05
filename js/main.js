@@ -9,10 +9,12 @@ const rpsLookup = {
         beats: 'r'
     },
     s: {
-        imgUrl: 'imgs/scissors.png"'
+        imgUrl: 'imgs/scissors.png',
         beats: 'p'
     }
 };
+
+
 
 /*----- app's state (variables) -----*/
 
